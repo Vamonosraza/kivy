@@ -11,3 +11,9 @@ Thumbs.db
 
 # IDE
 .vscode/settings.json
+
+conda/
+.conda/
+
+.github/
+config.py
